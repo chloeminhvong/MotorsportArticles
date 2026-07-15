@@ -9,4 +9,11 @@ Topics include:
 - Sports analytics
 - Statistical analysis
 - Data visualization
-  
+
+## Freshman Research Essay
+Originally written for my first-year English class, ENC213.
+
+Topics include:
+- Tire degredation
+- Optimization
+- Peer Research Citations
