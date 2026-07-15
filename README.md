@@ -1,4 +1,4 @@
-# MotorsportArticles
+# MotorsportWriting
 Chloe Vong's hub for technical writing throughout my college career. This repository contains articles and technical writing I have authored.
 ## [Sports Data Analysis Article](Articles/Now%20Is%20the%20Time%20to%20Watch%20Formula%201.pdf)
 Originally published for the FSU Sports Analytics Club in 2025.
@@ -10,7 +10,7 @@ Topics include:
 - Statistical analysis
 - Data visualization
 
-## Freshman Research Essay
+## [Freshman Research Essay](Articles/How%20Tire%20Degradation%20Impacts%20Formula%201.pdf)
 Originally written for my first-year English class, ENC213.
 
 Topics include:
